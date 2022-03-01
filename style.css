@@ -4,4 +4,6 @@ div {
 
 h1 {
   color: chartreuse;
+  font-weight: bolder;
+  background-color: black;
 }
