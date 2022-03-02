@@ -8,4 +8,5 @@ coverage/
 .env
 *.log
 yarn.lock
+package-lock.json
 gatsby-node.old.js
